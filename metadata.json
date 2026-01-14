@@ -1,0 +1,7 @@
+{
+  "name": "Animate My World",
+  "description": "Capture any object and watch it come to life! This app uses advanced AI to anthropomorphize everyday items and animate them into magical short videos.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
